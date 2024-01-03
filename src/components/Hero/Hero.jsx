@@ -4,7 +4,7 @@ import arrow_icon from '../../Assets/arrow.png';
 import hero_image from '../../Assets/hero_image.png';
 const Hero = () => {
   return (
-    <div className="flex justify-around w-full h-screen bg-gradient-to-r from-orange-400 to-orange-300 ">
+    <div className="flex justify-around w-full h-auto bg-gradient-to-r from-orange-400 to-orange-300 ">
         <div className="pt-20 font-semibold text-xl">
             <h2>NEW ARRIVALS ONLY</h2>
             <div>
